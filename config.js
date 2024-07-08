@@ -23,7 +23,7 @@
 module.exports = {
   TOKEN: "",
   ownerID: ["1004206704994566164", ""],
-  botInvite: "",
+  botInvite: "https://discord.com/oauth2/authorize?client_id=917698069909356594&permissions=53791156288&scope=bot%20applications.commands",
   supportServer: "",
   mongodbURL: "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
   status: 'GlaceYT',
@@ -35,7 +35,7 @@ module.exports = {
 
   sponsor: {
     status: true,
-    url: "https://www.youtube.com/@GlaceYT",
+    url: "https://www.youtube.com/@Judaspk4",
   },
 
   voteManager: {
